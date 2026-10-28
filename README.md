@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Sara!
 
-<!--
-**saracarri/saracarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year **Data Science and Engineering** student at the University of Las Palmas de Gran Canaria (ULPGC), Spain.
 
-Here are some ideas to get you started:
+I'm interested in data science, artificial intelligence, and software development. I enjoy learning new technologies and applying them to practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools
+
+**Programming languages:** Python, Java, C, R, SQL
+
+**Tools:** Git, GitHub, IntelliJ IDEA, VS Code, Oracle Database
+
+### Currently learning
+
+- Big Data technologies and data processing
+- Machine Learning and Artificial Intelligence
+- Database systems and optimization
+- Software engineering and system development
+
+### Areas of interest
+
+- Data Science & Data Engineering
+- Artificial Intelligence & Machine Learning
